@@ -1,0 +1,32 @@
+{
+  "name": "Official N8N Project",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "6be6e13d-b30f-4b41-95dc-522caa17867a",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "6a91b340-4381-4fd0-b2e6-3fd82b3c191a",
+      "name": "Webhook",
+      "webhookId": "6be6e13d-b30f-4b41-95dc-522caa17867a"
+    }
+  ],
+  "pinData": {},
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "8dd0fb9c-2364-4951-8bf0-034ab490f143",
+  "meta": {
+    "instanceId": "7e077d6b36829214be02f3cd1d429f2f3397ef3995b3982d6a6b8d64d626ce06"
+  },
+  "id": "LItMmfIa1yeQ4gXc",
+  "tags": []
+}
